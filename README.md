@@ -1,4 +1,4 @@
-# Melange Foundation 
+﻿# Melange Foundation 
 
 A Wordpress website for a student-run organisation.
 > The site is designed to establish web presence and serve as an online blog for the organisation.
@@ -6,11 +6,11 @@ A Wordpress website for a student-run organisation.
  
 ##### **Technologies** : PHP, WordPress, MySQL
 
-## Screenshots
+## Screenshot
 
-![Entity–Relationship Diagram](https://raw.githubusercontent.com/tmudunuri/Melange_Foundation/master/README/01_Main.PNG)
+![Entity–Relationship Diagram](https://raw.githubusercontent.com/tmudunuri/MelangeFoundation/master/README/01_Main.PNG)
 
-![Entity–Relationship Schema](https://raw.githubusercontent.com/tmudunuri/Melange_Foundation/master/README/02_Main.PNG)
+![Entity–Relationship Schema](https://raw.githubusercontent.com/tmudunuri/MelangeFoundation/master/README/02_Main.PNG)
 
 ## Developer
 **Thrivikram Mudunuri** — [@tmudunuri](https://github.com/tmudunuri)
